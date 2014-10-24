@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  resources :produits
+
   root 'static_pages#home'
 
 
