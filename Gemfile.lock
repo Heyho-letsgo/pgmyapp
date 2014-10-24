@@ -171,6 +171,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activerecord
   byebug
   coffee-rails (~> 4.0.0)
   guard-minitest (= 2.3.1)

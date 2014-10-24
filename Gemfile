@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.1.6'
 #gem 'sqlite3'
+gem 'activerecord'
 gem 'pg'
 gem 'unicorn-rails'
 gem 'sass-rails', '~> 4.0.3'
