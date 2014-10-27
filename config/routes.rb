@@ -3,13 +3,13 @@ Rails.application.routes.draw do
   resources :produits
 
   root 'static_pages#home'
-
-
   get 'static_pages/home'
-
   get 'static_pages/help'
-
   get 'static_pages/about'
+
+  #tutorails 01
+  get 'static_pages/0102'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
