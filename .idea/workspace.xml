@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6edf653-8e5c-4855-b7aa-f0f5a0eaa1ee" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/images.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/tutorails01pages_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/tutorails01pages_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myapp.iws" />
@@ -59,10 +61,20 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7641509" vertical-offset="237" max-vertical-offset="1095">
-              <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.33333334" vertical-offset="211" max-vertical-offset="1095">
+              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
               <folding>
-                <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#li#0;n#ul#1;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1414418554694" expanded="true" signature="1264:2368" placeholder="..." />
+                <marker date="1414418554694" expanded="true" signature="1296:1405" placeholder="..." />
+                <marker date="1414418554694" expanded="true" signature="1462:1656" placeholder="..." />
+                <marker date="1414418554694" expanded="true" signature="1493:1576" placeholder="..." />
+                <marker date="1414418554694" expanded="true" signature="1701:2359" placeholder="..." />
+                <marker date="1414418554694" expanded="true" signature="1729:2312" placeholder="..." />
+                <marker date="1414418554694" expanded="true" signature="1797:1865" placeholder="..." />
+                <marker date="1414418554694" expanded="true" signature="1900:2300" placeholder="..." />
+                <marker date="1414418554694" expanded="true" signature="1915:2107" placeholder="..." />
+                <marker date="1414418554694" expanded="true" signature="1965:2102" placeholder="..." />
+                <marker date="1414418554694" expanded="true" signature="2032:2048" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -71,8 +83,8 @@
       <file leaf-file-name="page0102.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/tutorails01pages/page0102.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="30.416666" vertical-offset="2905" max-vertical-offset="3480">
-              <caret line="145" column="108" selection-start-line="145" selection-start-column="108" selection-end-line="145" selection-end-column="108" />
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="2565">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -102,7 +114,7 @@
         <entry file="file://$PROJECT_DIR$/app/controllers/tutorails01pages_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -175,6 +187,7 @@
         <option value="$PROJECT_DIR$/app/controllers/tutorails01s_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/tutorails01s/page0102.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/tutorails01pages_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
@@ -340,6 +353,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="RailsProjectView" />
@@ -360,6 +413,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/images" />
       <recent name="$PROJECT_DIR$/app/views" />
       <recent name="$PROJECT_DIR$/app/views/static_pages" />
     </key>
@@ -585,10 +639,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1280" height="752" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32594937" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.346519" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="570" y="381" width="139" height="303" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.346519" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="570" y="381" width="139" height="303" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3227848" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41547862" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35583684" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -614,7 +668,7 @@
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="99" y="96" width="1082" height="605" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32594937" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.346519" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="570" y="381" width="139" height="303" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.346519" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="570" y="381" width="139" height="303" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959327" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3227848" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -627,7 +681,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32717678" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46688208" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27786753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39803094" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.98316973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1011,22 +1065,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/tutorails01pages_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/tutorails01pages/page0102.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="30.416666" vertical-offset="2905" max-vertical-offset="3480">
-          <caret line="145" column="108" selection-start-line="145" selection-start-column="108" selection-end-line="145" selection-end-column="108" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
@@ -1035,12 +1073,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/tutorails01pages/page0102.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="2565">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/tutorails01pages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7641509" vertical-offset="237" max-vertical-offset="1095">
-          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="211" max-vertical-offset="1095">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#li#0;n#ul#1;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1414418554694" expanded="true" signature="1264:2368" placeholder="..." />
+            <marker date="1414418554694" expanded="true" signature="1296:1405" placeholder="..." />
+            <marker date="1414418554694" expanded="true" signature="1462:1656" placeholder="..." />
+            <marker date="1414418554694" expanded="true" signature="1493:1576" placeholder="..." />
+            <marker date="1414418554694" expanded="true" signature="1701:2359" placeholder="..." />
+            <marker date="1414418554694" expanded="true" signature="1729:2312" placeholder="..." />
+            <marker date="1414418554694" expanded="true" signature="1797:1865" placeholder="..." />
+            <marker date="1414418554694" expanded="true" signature="1900:2300" placeholder="..." />
+            <marker date="1414418554694" expanded="true" signature="1915:2107" placeholder="..." />
+            <marker date="1414418554694" expanded="true" signature="1965:2102" placeholder="..." />
+            <marker date="1414418554694" expanded="true" signature="2032:2048" placeholder="..." />
           </folding>
         </state>
       </provider>
