@@ -8,8 +8,8 @@ Rails.application.routes.draw do
   get 'static_pages/about'
 
   #tutorails 01
-  get 'tutorails01/0102'
-
+  get '/tutorails01pages' => 'tutorails#index'
+  get '/tutorails01pages/page0102' =>'tutorails01pages#page0102'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
